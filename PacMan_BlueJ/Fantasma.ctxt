@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Fantasma
+comment1.params=
+comment1.target=Fantasma()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Fantasma,que\ define\ imagem\ inicial\r\n\ e\ posi\u00E7\u00F5es\ iniciais\ para\ o\ Fantasma\ Azul\ e\ Vermeho.\r\n
+comment2.params=
+comment2.target=javax.swing.JLabel\ getFantasmaR()
+comment2.text=\r\n\ M\u00E9todo\ para\ retornar\ uma\ JLabel\ do\ tipo\ Fantasma\ e\ de\ cor\ R(vermelho).\r\n\ @return\ \ \ \ \ a\ JLabel\r\n
+comment3.params=
+comment3.target=javax.swing.JLabel\ getFantasmaB()
+comment3.text=\r\n\ M\u00E9todo\ para\ retornar\ uma\ JLabel\ do\ tipo\ Fantasma\ e\ de\ cor\ B(Azul).\r\n\ @return\ \ \ \ \ a\ JLabel\r\n
+comment4.params=
+comment4.target=java.awt.Rectangle\ getBoundsR()
+comment4.text=\r\n\ M\u00E9todo\ para\ retornar\ valores\ de\ uma\ JLabel\ do\ tipo\ Fantasma\ \r\n\ e\ de\ cor\ R(Vermelha).\r\n\ Obs\:Uma\ JLabel\ e\ tratada\ como\ um\ retangulo.\r\n\ @return\ \ \ \ \ a\ posi\u00E7\u00E3o\ do\ Fantasma\ R\ na\ tela;\r\n\ Sua\ posi\u00E7\u00E3o\ x,y,largura\ e\ comprimento.\r\n
+comment5.params=
+comment5.target=java.awt.Rectangle\ getBoundsB()
+comment5.text=\r\n\ M\u00E9todo\ para\ retornar\ valores\ de\ uma\ JLabel\ do\ tipo\ Fantasma\ \r\n\ e\ de\ cor\ B(Blue).\r\n\ Obs\:Uma\ JLabel\ e\ tratada\ como\ um\ retangulo.\r\n\ @return\ \ \ \ \ a\ posi\u00E7\u00E3o\ do\ Fantasma\ R\ na\ tela;\r\n\ Sua\ posi\u00E7\u00E3o\ x,y,largura\ e\ comprimento.\r\n
+comment6.params=xr\ yr\ xb\ yb
+comment6.target=void\ Movimento(int,\ int,\ int,\ int)
+comment6.text=\r\n\ M\u00E9todo\ para\ mover\ os\ Fantasma\ R\ e\ B\ de\ acordo\ com\ as\ variaveis\ X\ e\ Y\ ,\r\n\ que\ representam\ sua\ posi\u00E7\u00E3o\ numa\ matriz.\r\n\ X\ \=\ Sua\ Linha.\r\n\ Y\ \=\ Sua\ Coluna.\r\n
+comment7.params=FanR\ anima
+comment7.target=void\ setImagemFR(int,\ boolean)
+comment7.text=\r\n\ M\u00E9todo\ para\ mudar\ as\ imagens\ do\ Fantasmas\ R\ de\ acordo\ com\ a\ dire\u00E7\u00E3o\r\n\ em\ que\ se\ move.\r\n
+comment8.params=FanB\ anima
+comment8.target=void\ setImagemFB(int,\ boolean)
+comment8.text=\r\n\ M\u00E9todo\ para\ mudar\ as\ imagens\ do\ Fantasma\ B\ de\ acordo\ com\ a\ dire\u00E7\u00E3o\r\n\ em\ que\ se\ move.\r\n
+numComments=9

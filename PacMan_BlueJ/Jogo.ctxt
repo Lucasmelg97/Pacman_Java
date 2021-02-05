@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Jogo
+comment1.params=
+comment1.target=void\ jogo()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Jogo,inicia\ o\ jogo\ ,trata\ a\ coliz\u00E3o\ \r\n\ entre\ objetos,contabiliza\ as\ vidas,e\ abre\ o\ port\u00E3o\ para\ libera\u00E7\u00E3o\ dos\ \r\n\ Fantasmas.\r\n
+comment2.params=
+comment2.target=void\ Tela()
+comment2.text=\r\n\ M\u00E9todo\ que\ inicia\ e\ adiciona\ os\ objetos\ na\ tela,seta\ suas\ posi\u00E7\u00F5es,\r\n\ desenha\ o\ mapa\ e\ \u00E9\ responsavel\ pela\ parte\ grafica\ do\ programa.\r\n
+comment3.params=
+comment3.target=void\ mover()
+comment3.text=\r\n\ M\u00E9todo\ que\ \u00E9\ responsavel\ por\ ao\ prescionar\ as\ teclas\ de\ movimento\ \r\n\ retornar\ valores\ caso\ a\ posi\u00E7\u00E3o\ atual\ +\ a\ dire\u00E7\u00E3o\ pressionada\ n\u00E3o\r\n\ v\u00E3o\ de\ encontro\ com\ uma\ "parede"\ o\ 'x'\ na\ matriz\ de\ caracteres.\r\n
+comment4.params=e
+comment4.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment5.params=e
+comment5.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment6.params=e
+comment6.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.text=\r\n\ M\u00E9todo\ que\ ao\ apertar\ uma\ tecla,chama\ o\ metodo\ jogo.\r\n
+numComments=8

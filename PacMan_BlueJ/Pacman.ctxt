@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pacman
+comment1.params=
+comment1.target=Pacman()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Pacman-Define\ imagem\ inicial\ \r\n\ e\ posicoes\ na\ tela.\r\n
+comment2.params=
+comment2.target=javax.swing.JLabel\ getPacman()
+comment2.text=\r\n\ Metodo\ responsavel\ por\ retornar\ uma\ JLabel\ do\ tipo\ Pacman.\r\n
+comment3.params=
+comment3.target=java.awt.Rectangle\ getBounds()
+comment3.text=\r\n\ Retorna\ as\ posicoes\ da\ JLabel\ do\ Pacman.\ Obs\:\ a\ JLabel\ tem\ \r\n\ posicoes\ como\ um\ retangulo.\r\n
+comment4.params=
+comment4.target=void\ mortePac()
+comment4.text=\r\n\ Metodo\ responsavel\ para\ trocar\ a\ imagem\ do\ Pacman\ ap\u00F3s\ coliz\u00E3o\ \r\n\ com\ Fantasma\ Azul\ ou\ Vermelho(Mais\ informa\u00E7\u00F5es\ na\ classe\ Jogo).\r\n
+comment5.params=xx\ yy
+comment5.target=void\ Movimento(int,\ int)
+comment5.text=\r\n\ Metodo\ responsavel\ por\ morver\ o\ pacman\ de\ acordo\ com\ X\ e\ Y\ recebido\ ao\ \r\n\ pressionar\ teclas.\r\n
+comment6.params=PacM\ iniciar
+comment6.target=void\ setImagemPac(int,\ boolean)
+comment6.text=\r\n\ Metodo\ para\ mudar\ imagem\ do\ Pacman\ de\ acordo\ com\ a\ dire\u00E7\u00E3o\ da\ tela\ \r\n\ pressionada.\r\n\ Obs\:\ Gera\ a\ anima\u00E7\u00E3o\ de\ movimmento.\r\n
+numComments=7
